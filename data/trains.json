@@ -6,8 +6,8 @@
 				{
 					"station": "Sycamore",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "08:00am",
+					"departure": "08:30pm"
 				},
 				{
 					"station": "Pine",
